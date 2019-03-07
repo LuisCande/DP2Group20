@@ -1,0 +1,3 @@
+The sample project provided in the item 2 also appears inside the sample workspace in that item so it's way easier to set it up. Anyways please check the steps in the "Configure HTPPS" for the certificate.
+
+Please note that: Both the Acme-Madruga project and the war file provided in the items 4 and 5, respectively, have HTTPS implemented so in order to be able to test them you need to configure your workspace/system following the steps in the "Configure HTTPS" document in the item 2.
